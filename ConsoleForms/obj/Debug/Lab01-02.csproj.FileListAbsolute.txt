@@ -1,0 +1,10 @@
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\bin\Debug\Lab01-02.exe.config
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\bin\Debug\Lab01-02.exe
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\bin\Debug\Lab01-02.pdb
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01_02.Form1.resources
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01_02.Properties.Resources.resources
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01-02.csproj.GenerateResource.cache
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01-02.exe
+C:\Users\Ivan\Downloads\01-windows-forms-master\Lab01-02\obj\Debug\Lab01-02.pdb
